@@ -70,15 +70,15 @@ nav ul li a:hover{
     transform:scale(1.2);
 }
 
-input[type="text"]{
+input[type="text"]#buscar{
     height: 20px;
     background-color: transparent;
     outline: none;
     border-block-style: none;
+    /* border: none; */
     border-radius: 20px;
     border: 2px #ffffff solid;
     padding: 20px 10px;}
-
 
 /* ===========================
    CARRUSEL
