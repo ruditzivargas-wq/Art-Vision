@@ -70,7 +70,7 @@ nav ul li a:hover{
     transform:scale(1.2);
 }
 
-input#buscar{
+input[type="text"]{
     height: 20px;
     background-color: transparent;
     outline: none;
